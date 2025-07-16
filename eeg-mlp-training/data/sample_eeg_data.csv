@@ -1,0 +1,19 @@
+EEG_MLP_Project/
+│
+├── data/
+│   ├── raw/                # Raw EEG data files
+│   ├── processed/          # Processed EEG data files
+│   └── README.md           # Description of the data
+│
+├── notebooks/              # Jupyter notebooks for exploration
+│   └── exploratory_analysis.ipynb
+│
+├── src/                   # Source code for the project
+│   ├── __init__.py
+│   ├── data_preprocessing.py  # Data preprocessing functions
+│   ├── model.py              # MLP model definition
+│   └── train.py              # Training script
+│
+├── requirements.txt         # Python package dependencies
+├── README.md                # Project overview and instructions
+└── main.py                  # Main script to run the project

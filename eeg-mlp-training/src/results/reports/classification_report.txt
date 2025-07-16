@@ -1,0 +1,13 @@
+Test Accuracy: 0.2701
+
+Classification Report:
+              precision    recall  f1-score   support
+
+          GN       0.26      0.23      0.25      4872
+          GS       0.30      0.24      0.27      4872
+          UN       0.28      0.20      0.23      4872
+          US       0.25      0.41      0.31      4872
+
+    accuracy                           0.27     19488
+   macro avg       0.28      0.27      0.27     19488
+weighted avg       0.28      0.27      0.27     19488
